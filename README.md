@@ -1,2 +1,2 @@
-# Files (mostly Jupyter notebooks) from my stochastic algorithms class. 
+# Files from my stochastic algorithms class. 
 
